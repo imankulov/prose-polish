@@ -29,7 +29,7 @@
     "languagedetect": "^2.0.0",
     "lint-staged": "^13.2.2",
     "lodash": "^4.17.21",
-    "material-ui-popup-state": "^5.0.9",
+    "material-ui-popup-state": "^5.1.2",
     "mixpanel": "^0.17.0",
     "next": "13.4.4",
     "openai": "^3.2.1",
